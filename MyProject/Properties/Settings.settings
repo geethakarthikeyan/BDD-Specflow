@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpecflowBDD.TAF.MyProject.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="browser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Chrome</Value>
+    </Setting>
+    <Setting Name="url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.ultimateqa.com/simple-html-elements-for-automation/</Value>
+    </Setting>
+    <Setting Name="timeout_Sec" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="sleep_msec" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
