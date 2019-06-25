@@ -1,6 +1,5 @@
 # BDD-Specflow
 BDD Specflow Test Automation Framework
-BDD SpecFlow Nunit Framework
 
 Uses:
 •	SpecFlow 3 (Cucumber BDD)
